@@ -50,5 +50,5 @@ Scan all modes ➜ AT+QNWPREFCFG="mode_pref",AUTO;AT+QNWPREFCFG="mode_pref",AUTO
 
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Preview / <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Podgląd
 
-![]()
-![]()
+![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/luci-app-atinout_a.png?raw=true)
+![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/luci-app-atinout_b.png?raw=true)
